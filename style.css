@@ -1,0 +1,51 @@
+
+body{
+  background-color: #82b2bd;
+  padding: 300px;
+  
+}
+
+@font-face {
+  font-family: Belleza ;
+  src:url("Belleza.ttf");
+
+}
+
+
+
+#canvas-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  
+
+  
+
+  
+}
+
+div{
+  background-color: #F1E7D3;
+  
+  
+  
+}
+
+#interactive-title {
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease, color 0.3s ease;
+  padding-bottom: 40px;
+  font-family: 'Belleza', Arial, sans-serif;
+  font-size: 50px;
+  
+  
+}
+
+h1{
+  font-family: 'Belleza', Arial, sans- serif;
+  font-size:75px ;
+  text-align: center;
+}
+
