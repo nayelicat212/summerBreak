@@ -2,9 +2,9 @@
 
 
 @font-face {
- font-family: Belleza;
+ font-family: Beachday;
    
- src: url("Belleza.ttf") format('truetype');
+ src: url("Beachday.ttf") format('truetype');
 
 }
 
@@ -43,14 +43,14 @@ div{
   cursor: pointer;
   transition: transform 0.3s ease, color 0.3s ease;
   padding-bottom: 40px;
-  font-family: 'Belleza', sans-serif;
+  font-family: 'Beachday', sans-serif;
   font-size: 50px;
   
   
 }
 
 h1{
-  font-family: 'Belleza', sans- serif;
+  font-family: 'Beachday', sans- serif;
   font-size:75px ;
   text-align: center;
 }
