@@ -1,15 +1,21 @@
 
+@font-face {
+  font-family: Belleza ;
+  src:
+  local("Belleza"),
+  url("Belleza.ttf");
+
+}
+
+
+
 body{
   background-color: #82b2bd;
   padding: 300px;
   
 }
 
-@font-face {
-  font-family: Belleza ;
-  src:url("Belleza.ttf");
 
-}
 
 
 
